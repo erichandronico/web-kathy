@@ -14,7 +14,7 @@ const slides = [
       enlace: "#esencia"
     },
     {
-      imagen: '/assets/hero2.jpg',
+      imagen: '/assets/hero2_c.jpg',
       titulo: 'Maternidad con propósito',
       subtitulo: 'Crianza, presencia y amor propio',
       enlace: "#maternidad"

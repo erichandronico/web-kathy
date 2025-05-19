@@ -3,7 +3,7 @@ export const Blog = () => {
       {
         titulo: 'La maternidad consciente',
         resumen: 'Reflexiones sobre el vínculo emocional, el autocuidado y la presencia en la crianza actual.',
-        imagen: '/assets/blog1.jpg',
+        imagen: '/assets/blog2.jpg',
         enlace: '#',
       },
       {
@@ -15,7 +15,7 @@ export const Blog = () => {
       {
         titulo: 'Bienestar con propósito',
         resumen: 'Más allá del cuerpo: cómo integrar mente, espíritu y energía en tu vida cotidiana.',
-        imagen: '/assets/blog3.jpg',
+        imagen: '/assets/blog2.jpg',
         enlace: '#',
       },
     ];

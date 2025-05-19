@@ -7,10 +7,12 @@ export const Header = () => {
   
           {/* Navegación */}
           <nav className="space-x-6 hidden md:block">
-            <a href="#esencia" className="text-white hover:text-ocre font-medium transition">Esencia</a>
-            <a href="#maternidad" className="text-white hover:text-ocre font-medium transition">Maternidad</a>
-            <a href="#movimiento" className="text-white hover:text-ocre font-medium transition">Movimiento</a>
-            <a href="#tv" className="text-white hover:text-ocre font-medium transition">TV</a>
+            <a href="#bio" className="text-white hover:text-ocre font-medium transition">Biografía</a>
+            <a href="#publicidad" className="text-white hover:text-ocre font-medium transition">Publicidad</a>
+            <a href="#Modelo" className="text-white hover:text-ocre font-medium transition">Modelo</a>
+            <a href="#animacion" className="text-white hover:text-ocre font-medium transition">Animación</a>
+            <a href="#productos" className="text-white hover:text-ocre font-medium transition">Productos</a>
+            <a href="#blog" className="text-white hover:text-ocre font-medium transition">Blog</a>
           </nav>
         </div>
       </header>

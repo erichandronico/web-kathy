@@ -3,7 +3,7 @@ export const Hero = () => {
       <section
         className="relative h-[85vh] bg-center bg-cover flex items-center justify-center text-white"
         style={{
-          backgroundImage: "url('/assets/hero-kathy.jpg')", // Reemplaza con la ruta real de tu imagen
+          backgroundImage: "url('/assets/hero1.jpg')", // Reemplaza con la ruta real de tu imagen
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-40"></div>
