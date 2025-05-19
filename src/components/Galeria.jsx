@@ -9,7 +9,7 @@ export const Galeria = () => {
     ];
   
     return (
-      <section id="galeria" className="bg-fondo py-16 px-6">
+      <section id="galeria" className="bg-fondo scroll-mt-24 py-16 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl font-bold text-center text-petroleo mb-12">Galería</h2>
   

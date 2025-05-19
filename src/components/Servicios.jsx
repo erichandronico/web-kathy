@@ -21,7 +21,7 @@ export const Servicios = () => {
     ];
   
     return (
-      <section id="servicios" className="bg-white py-16 px-6">
+      <section id="servicios" className="bg-white scroll-mt-24 py-16 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl font-bold text-vino text-center mb-12">Servicios</h2>
   

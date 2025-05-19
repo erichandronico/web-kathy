@@ -21,7 +21,7 @@ export const Blog = () => {
     ];
   
     return (
-      <section id="blog" className="bg-white py-16 px-6">
+      <section id="blog" className="bg-white scroll-mt-24 py-16 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl font-bold text-center text-vino mb-12">Blog</h2>
   
