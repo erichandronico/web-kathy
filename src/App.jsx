@@ -7,17 +7,19 @@ import {Footer} from './components/Footer'
 import { Hero } from './components/Hero'
 import { HeroSwiper } from './components/HeroSwiper'
 import { Publicidad } from './components/Publicidad'
+import { Modelo } from './components/Modelo'
 
 export default function App() {
   return (
     <div className="font-sans text-gray-800">
       <HeroSwiper />
       <Header />
-      <Publicidad />
       <Bio />
-      <Servicios />
+      <Modelo />
+      <Publicidad />
+      {/* <Servicios />
       <Galeria />
-      <Blog />
+      <Blog /> */}
       <Footer />
     </div>
   )

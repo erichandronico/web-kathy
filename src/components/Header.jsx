@@ -6,11 +6,11 @@ export const Header = () => {
 
   const links = [
     { href: '#bio', label: 'Biografía' },
-    { href: '#publicidad', label: 'Publicidad' },
     { href: '#modelo', label: 'Modelo' },
-    { href: '#animacion', label: 'Animación' },
-    { href: '#productos', label: 'Productos' },
-    { href: '#blog', label: 'Blog' },
+    { href: '#publicidad', label: 'Publicidad' },
+    // { href: '#animacion', label: 'Animación' },
+    // { href: '#productos', label: 'Productos' },
+    // { href: '#blog', label: 'Blog' },
   ];
 
   return (
