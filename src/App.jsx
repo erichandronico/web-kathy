@@ -8,6 +8,7 @@ import { Hero } from './components/Hero'
 import { HeroSwiper } from './components/HeroSwiper'
 import { Publicidad } from './components/Publicidad'
 import { Modelo } from './components/Modelo'
+import { Blog2 } from './components/Blog2'
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
       <Bio />
       <Modelo />
       <Publicidad />
+      <Blog2 />
       {/* <Servicios />
       <Galeria />
       <Blog /> */}
