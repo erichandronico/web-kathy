@@ -18,7 +18,7 @@ export default function App() {
       <Bio />
       <Modelo />
       <Publicidad />
-      <Blog2 />
+      {/* <Blog2 /> */}
       {/* <Servicios />
       <Galeria />
       <Blog /> */}
