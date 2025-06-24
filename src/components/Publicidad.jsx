@@ -14,7 +14,7 @@ const SERVICE_MAP = {
 const Icon = ({ IconComponent, label }) => (
   <div className="flex flex-col items-center w-14 text-xs text-vino" title={label} aria-label={label}>
     <IconComponent size={10} />
-    <span className="mt-1" style={{ fontSize: 9}}>{label}</span>
+    <span className="mt-1" style={{ fontSize: 10}}>{label}</span>
   </div>
 );
 
@@ -25,9 +25,9 @@ const VideoFootnote = ({ services }) => {
     .filter(Boolean);
 
   return (
-    <div className="mt-0 px-3 py-1 bg-gray-50 rounded-lg">
-      <div className="flex justify-between items-center flex-wrap gap-y-2">
-        <div className="flex gap-3 flex-wrap">
+    <div className="mt-0 pt-0 px-3 py-1 border bg-gray-50 rounded" style={{ marginTop: -10 }}>
+      <div className="flex justify-between items-center flex-wrap gap-y-1 mt-1">
+        <div className="flex gap-1 flex-wrap mt-1">
           {validServices.map(({ label, icon: IconComponent }, i) => (
             <Icon key={i} IconComponent={IconComponent} label={label} />
           ))}
@@ -43,9 +43,9 @@ export const Publicidad = () => {
     { url: "https://www.instagram.com/reel/DJXx6qUtQja/", services: "GFELA" },
     { url: "https://www.instagram.com/reel/DIhlCF7tPuJ/", services: "GFEA" },
     { url: "https://www.instagram.com/reel/C8M3a_DRnL1/?igsh=Z2F5NzZhMXBzaHpq", services: "GFE" },
-    { url: "https://www.instagram.com/reel/C5ep3hfOXdx/?igsh=MXFxeG1ubWRncnVkMQ==", services: "FEA" },
     { url: "https://www.instagram.com/reel/DCU5pulJ8Tf/?igsh=MWQxb2xnd2Zxb2VrOQ==", services: "FEL" },
     { url: "https://www.instagram.com/reel/DJFpeeQt0KM/?igsh=MTdnMTY0d3B2cmNmaA==", services: "GFE" },
+    { url: "https://www.instagram.com/reel/C5ep3hfOXdx/?igsh=MXFxeG1ubWRncnVkMQ==", services: "FEA" },
   ];
 
   return (
