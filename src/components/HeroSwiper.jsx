@@ -9,28 +9,28 @@ import { motion } from 'framer-motion';
 const slides = [
     {
       imagen: '/assets/hero1.jpg',
-      titulo: 'Conecta con tu esencia',
-      subtitulo: 'Bienestar emocional, arte y consciencia',
+      titulo: 'Modelaje',
+      subtitulo: 'Photo Shooting y Editorial',
       enlace: "#esencia"
     },
     {
-      imagen: '/assets/hero2_c.jpg',
-      titulo: 'Maternidad con propósito',
+      imagen: '/assets/hero2.jpg',
+      titulo: 'Publicidad',
       subtitulo: 'Crianza, presencia y amor propio',
       enlace: "#maternidad"
     },
     {
       imagen: '/assets/hero3.jpg', // Reemplaza con una imagen de Kathy animando TV
-      titulo: 'Rostro de Televisión',
+      titulo: 'Animación',
       subtitulo: 'Conducción, presencia escénica y conexión con la audiencia',
       enlace: "#tv"
     },
-    {
-      imagen: '/assets/hero4.jpg',
-      titulo: 'Movimiento y transformación',
-      subtitulo: 'Yoga, danza y energía femenina',
-      enlace: "#movimiento"
-    },
+    // {
+    //   imagen: '/assets/hero4.jpg',
+    //   titulo: 'Movimiento y transformación',
+    //   subtitulo: 'Yoga, danza y energía femenina',
+    //   enlace: "#movimiento"
+    // },
   ];
   
 
