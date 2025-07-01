@@ -83,7 +83,7 @@ export const Publicidad = () => {
 
       {/* Publicaciones embebidas */}
       <div className="max-w-5xl mx-auto mt-12 space-y-12 px-4">
-        <h3 className="text-2xl font-semibold text-petroleo mb-1">Algunos trabajos realizados por nosotros</h3>
+        <h3 className="text-2xl mb-1 text-vino font-nobel">Algunos trabajos realizados por nosotros</h3>
 
         <div className="grid mt-0 md:grid-cols-3 gap-x-2 gap-y-10">
           {videos.map(({ url, services }, idx) => (
