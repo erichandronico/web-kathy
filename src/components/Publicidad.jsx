@@ -49,25 +49,25 @@ export const Publicidad = () => {
   ];
 
   return (
-    <section id="publicidad" className="scroll-mt-24 bg-white py-16 px-6 text-texto">
+    <section id="publicidad" className="scroll-mt-24 bg-white py-16 px-6 text-texto font-nobel">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-4xl font-bold text-vino mb-8 text-center">Publicidad & Contenido</h2>
-
-        <p className="text-lg leading-relaxed mb-6">
+        
+        <p className="text-xl leading-relaxed mb-6">
           Ofrecemos servicios integrales de <strong>publicidad en redes sociales</strong>, tanto desde la mirada de <strong>influencer</strong> como desde una <em>productora creativa & audiovisual</em>.
         </p>
 
-        <ul className="list-disc pl-5 space-y-4 text-lg mb-10">
+        <ul className="list-disc pl-5 space-y-4 text-xl mb-10">
           <li><strong>Historias de Instagram</strong>: creativas, orgánicas, alineadas con tu marca.</li>
           <li><strong>Reels de Instagram</strong>: podemos crear el guión, filmar con cámaras, lentes y micrófonos profesionales, y realizar una edición de alto nivel.</li>
           <li><strong>Publicaciones tipo carrusel</strong>: fotografía profesional con composición, estética y mensaje claro.</li>
         </ul>
 
-        <p className="text-lg mb-8">
+        <p className="text-xl mb-8">
           Puedes contratar los siguientes servicios:
         </p>
 
-        <ul className="list-disc pl-5 space-y-4 text-lg">
+        <ul className="list-disc pl-5 space-y-4 text-xl">
           <li>Difusión del contenido en el perfil de Kathy</li>
           <li>
             Creación de contenido original:

@@ -88,7 +88,7 @@ const containerVariants = {
               >
                 <div className="absolute inset-0 bg-black bg-opacity-40 z-0"></div>
   
-                <div className="relative z-10 text-center px-6 text-white">
+                <div className="relative z-10 text-center px-6 text-white font-nobel">
                   <motion.h1
                     className="text-5xl md:text-6xl font-extrabold mb-3 text-fondo drop-shadow"
                     initial="hidden"

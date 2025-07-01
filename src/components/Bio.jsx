@@ -1,6 +1,6 @@
 export const Bio = () => {
   return (
-    <section id="bio" className="bg-fondo py-16 px-6">
+    <section id="bio" className="bg-fondo py-16 px-6 font-nobel">
       <div className="max-w-4xl mx-auto text-texto text-lg leading-relaxed">
 
         {/* Imagen flotante en desktop */}
@@ -19,25 +19,28 @@ export const Bio = () => {
           />
         </div>
 
-        <h2 className="text-4xl font-bold text-petroleo mb-6 flex items-center gap-2">
-          <span role="img" aria-label="hoja">🌿</span>
+        <h2 className="text-4xl font-bold text-black mb-6 flex items-center gap-2">
           Sobre Kathy Contreras
         </h2>
 
-        <p className="mb-4">
-          Soy <strong>Kathy Contreras</strong>, <strong>comunicadora</strong>, <strong>terapeuta integral</strong>, <strong>actriz</strong> y <strong>modelo</strong>. Desde <strong>2009</strong> animo eventos para empresas y marcas.
+        <p className="mb-4 text-xl">
+          Soy <strong>Kathy Contreras</strong>, <strong>comunicadora</strong>, <strong>terapeuta integral</strong>, <strong>actriz</strong> y <strong>modelo</strong>. Desde <strong>2009</strong> animo eventos para <strong>marcas</strong> y <strong>empresas</strong>, y he trabajado en <strong>televisión</strong>, <strong>cine</strong>, <strong>cortometrajes</strong> y <strong>campañas publicitarias</strong> para redes sociales, retail y televisión.
         </p>
 
-        <p className="mb-4">
-          Me formé en <em>teatro</em>, <em>locución</em>, <em>yoga infantil y familiar</em>, <em>psicología transpersonal</em> y como <em>facilitadora de círculos de mujeres</em> enfocados en el autoconocimiento. He trabajado en televisión, cine, cortometrajes y campañas publicitarias para redes sociales, retail y televisión.
+        <p className="mb-4 text-xl">
+          Me formé en <em>teatro</em>, <em>locución</em>, <em>yoga infantil y familiar</em>, <em>psicología transpersonal</em> y como <em>facilitadora de círculos de mujeres</em> enfocados en el autoconocimiento. Actualmente, me encuentro en formación como <em>educadora de movimiento somático</em>. A lo largo de los años, he integrado todo ese camino en una forma de <strong>comunicar con propósito y sentido</strong>.
         </p>
 
-        <p className="mb-4">
-          Mi pasión es cultivar y fomentar el <strong>amor propio</strong>, la <strong>conciencia corporal</strong> y una <strong>moda con sentido</strong>: habitar el cuerpo, conocerse y expresarse con autenticidad. Uno de los enfoques que marcó mi camino fue <em>Body-Mind Movement</em>, basado en la educación somática.
+        <p className="mb-4 text-xl">
+          Mi <strong>propósito de vida</strong> es participar en <strong>proyectos que promuevan el autoconocimiento del ser</strong>. Creo profundamente que, así como se enseña matemáticas o historia, desde pequeños deberíamos aprender sobre <em>autoconocimiento</em>, <em>regulación emocional</em> y <em>vinculación consciente</em> con nosotros mismos, con los demás y con nuestro hábitat. Desde ahí, siento que pueden cambiar muchas cosas en el mundo.
+        </p>
+
+        <p className="mb-4 text-xl">
+          La <strong>moda</strong> también ha sido parte de mi <em>lenguaje expresivo</em>. Hoy impulso una <strong>moda con sentido</strong>, como una forma de proyectar desde dentro hacia afuera, del ser hacia el vestir. <strong>Habitar el cuerpo con conciencia</strong>, <strong>conocerse</strong> y <strong>expresarse con autenticidad</strong>.
         </p>
 
         <p>
-          Hoy integro todos mis aprendizajes para <strong>comunicar desde mis redes como influencer</strong>, <strong>crear proyectos con propósito</strong> y <strong>motivar a mi comunidad</strong>. Mi mayor maestra es mi hija <strong>Selva</strong>, quien me inspira a vivir con más <em>presencia</em> y <em>profundidad</em>.
+          Actualmente, integro todas estas dimensiones desde mi rol como <strong>comunicadora en redes</strong>, <strong>creando proyectos con propósito</strong> y <strong>compartiendo contenido desde mi ser auténtico</strong>. Mi mayor maestra es mi hija <strong>Selva</strong>, quien me recuerda cada día lo esencial: <em>vivir con presencia y profundidad</em>.
         </p>
       </div>
     </section>

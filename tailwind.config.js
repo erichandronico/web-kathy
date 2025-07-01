@@ -35,7 +35,9 @@ export default {
           vino: '#5C3A3A',
         },
         fontFamily: {
+          nobel: ['NobelLight', 'sans-serif'],
           sans: ['"Poppins"', 'sans-serif'],
+          libre: ['"Libre Baskerville"', 'serif'],
         },
       },
     },
