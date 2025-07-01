@@ -16,21 +16,21 @@ const slides = [
     {
       imagen: '/assets/hero2.jpg',
       titulo: 'Publicidad',
-      subtitulo: 'Crianza, presencia y amor propio',
+      subtitulo: 'Influencer, Producción y Ejecución de Proyectos',
       enlace: "#maternidad"
     },
     {
       imagen: '/assets/hero3.jpg', // Reemplaza con una imagen de Kathy animando TV
       titulo: 'Animación',
-      subtitulo: 'Conducción, presencia escénica y conexión con la audiencia',
+      subtitulo: 'Televisión, Eventos para Empresas y Experiencias Motivacionales',
       enlace: "#tv"
     },
-    // {
-    //   imagen: '/assets/hero4.jpg',
-    //   titulo: 'Movimiento y transformación',
-    //   subtitulo: 'Yoga, danza y energía femenina',
-    //   enlace: "#movimiento"
-    // },
+    {
+      imagen: '/assets/hero4.jpg',
+      titulo: 'Mujer con Propósito',
+      subtitulo: 'Acerca de Kathy Contreras',
+      enlace: "#movimiento"
+    },
   ];
   
 

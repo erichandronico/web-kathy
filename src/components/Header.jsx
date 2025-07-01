@@ -18,7 +18,7 @@ export const Header = () => {
   return (
     <header className="absolute top-0 left-0 w-full z-50">
       {/* Degradado superior */}
-      <div className="absolute inset-0 h-24 bg-gradient-to-b from-black/70 via-black/40 to-transparent pointer-events-none z-[-1]" />
+      <div className="absolute inset-0 h-24 bg-gradient-to-b from-black/70 via-black/50 to-transparent pointer-events-none z-[-1]" />
 
       <div className="flex justify-between items-center px-6 py-4 max-w-7xl mx-auto">
         {/* Logo */}
