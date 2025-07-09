@@ -23,7 +23,7 @@ const slides = [
       imagen: '/assets/hero3.jpg', // Reemplaza con una imagen de Kathy animando TV
       titulo: 'Animación',
       subtitulo: 'Televisión, Eventos para Empresas y Experiencias Motivacionales',
-      enlace: "#tv"
+      enlace: "#animacion"
     },
     {
       imagen: '/assets/hero4.jpg',

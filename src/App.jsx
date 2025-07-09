@@ -9,6 +9,7 @@ import { HeroSwiper } from './components/HeroSwiper'
 import { Publicidad } from './components/Publicidad'
 import { Modelo } from './components/Modelo'
 import { Blog2 } from './components/Blog2'
+import { Animacion } from './components/Animacion'
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <HeroSwiper />
       <Header />
       <Bio />
+      <Animacion />
       <Modelo />
       <Publicidad />
       {/* <Blog2 /> */}

@@ -42,6 +42,7 @@ export const Bio = () => {
         <p>
           Actualmente, integro todas estas dimensiones desde mi rol como <strong>comunicadora en redes</strong>, <strong>creando proyectos con propósito</strong> y <strong>compartiendo contenido desde mi ser auténtico</strong>. Mi mayor maestra es mi hija <strong>Selva</strong>, quien me recuerda cada día lo esencial: <em>vivir con presencia y profundidad</em>.
         </p>
+
       </div>
     </section>
   );

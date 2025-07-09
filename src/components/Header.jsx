@@ -8,7 +8,7 @@ export const Header = () => {
     { href: '#bio', label: 'Biografía' },
     { href: '#modelo', label: 'Modelo' },
     { href: '#publicidad', label: 'Publicidad' },
-    // { href: '#animacion', label: 'Animación' },
+    { href: '#animacion', label: 'Animación' },
     // { href: '#productos', label: 'Productos' },
     // { href: '#blog', label: 'Blog' },
   ];
