@@ -11,13 +11,13 @@ const slides = [
       imagen: '/assets/hero1.jpg',
       titulo: 'Modelaje',
       subtitulo: 'Photo Shooting y Editorial',
-      enlace: "#esencia"
+      enlace: "#modelo"
     },
     {
       imagen: '/assets/hero2.jpg',
       titulo: 'Publicidad',
       subtitulo: 'Influencer, Producción y Ejecución de Proyectos',
-      enlace: "#maternidad"
+      enlace: "#publicidad"
     },
     {
       imagen: '/assets/hero3.jpg', // Reemplaza con una imagen de Kathy animando TV
@@ -29,7 +29,7 @@ const slides = [
       imagen: '/assets/hero4.jpg',
       titulo: 'Mujer con Propósito',
       subtitulo: 'Acerca de Kathy Contreras',
-      enlace: "#movimiento"
+      enlace: "#bio"
     },
   ];
   
