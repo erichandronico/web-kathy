@@ -20,7 +20,7 @@ export const Modelo = () => {
     <section id="modelo" className="bg-gray-100 py-16 px-6 text-texto">
       <div className="max-w-5xl mx-auto font-nobel">
         <h2 className="text-4xl font-bold text-vino mb-6 text-center">Modelo</h2>
-        <p className="text-lg leading-relaxed mb-10 text-center max-w-3xl mx-auto text-xl">
+        <p className="leading-relaxed mb-10 text-center max-w-3xl mx-auto text-xl">
         Modelo desde 2008, con experiencia en televisión, fotografía para moda, catálogos, retail, editoriales, marcas deportivas, de belleza y cosmética, y contenido para redes sociales.
         </p>
 
